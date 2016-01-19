@@ -1,0 +1,12 @@
+{
+  "name"         : "atomicelements-scripts",
+  "version"      : "0.0.1",
+  "description"  : "Node JS based scripts used by the AtomicElementsViewer project",
+  "main"         : "convert.js",
+  "author"       : "Andre Mas",
+  "dependencies" : {
+    "express"    : "latest",
+    "path"       : "latest",
+    "fs"         : "latest"
+  }
+}
