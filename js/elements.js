@@ -29,6 +29,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "1.000132",
     "optical_refractive_index-liquid": "1.12",
+    "family": "nonmetal",
     "name": "Hydrogen"
   },
   "2": {
@@ -61,6 +62,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "1.000035",
     "optical_refractive_index-liquid": "1.028",
+    "family": "noble gas",
     "name": "Helium"
   },
   "3": {
@@ -93,6 +95,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "alkali metal",
     "name": "Lithium"
   },
   "4": {
@@ -125,6 +128,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "alkaline earth",
     "name": "Beryllium"
   },
   "5": {
@@ -157,6 +161,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "metalloid",
     "name": "Boron"
   },
   "6": {
@@ -189,6 +194,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "non-metal",
     "name": "Carbon"
   },
   "7": {
@@ -221,6 +227,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "non-metal",
     "name": "Nitrogen"
   },
   "8": {
@@ -253,6 +260,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "non-metal",
     "name": "Oxygen"
   },
   "9": {
@@ -285,6 +293,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "halogen",
     "name": "Fluorine"
   },
   "10": {
@@ -317,6 +326,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "noble gas",
     "name": "Neon"
   },
   "11": {
@@ -349,6 +359,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "alkali metal",
     "name": "Sodium"
   },
   "12": {
@@ -381,6 +392,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "alkaline earth",
     "name": "Magnesium"
   },
   "13": {
@@ -413,6 +425,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "basic metal",
     "name": "Aluminium"
   },
   "14": {
@@ -445,6 +458,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "metalloid",
     "name": "Silicon"
   },
   "15": {
@@ -477,6 +491,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "non-metal",
     "name": "Phosphorus"
   },
   "16": {
@@ -509,6 +524,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "non-metal",
     "name": "Sulphur"
   },
   "17": {
@@ -541,6 +557,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "halogen",
     "name": "Chlorine"
   },
   "18": {
@@ -573,6 +590,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "noble gas",
     "name": "Argon"
   },
   "19": {
@@ -605,6 +623,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "alkali metal",
     "name": "Potassium"
   },
   "20": {
@@ -637,6 +656,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "alkaline earth",
     "name": "Calcium"
   },
   "21": {
@@ -669,6 +689,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Scandium"
   },
   "22": {
@@ -701,6 +722,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Titanium"
   },
   "23": {
@@ -733,6 +755,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Vanadium"
   },
   "24": {
@@ -765,6 +788,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Chromium"
   },
   "25": {
@@ -797,6 +821,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Manganese"
   },
   "26": {
@@ -829,6 +854,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Iron"
   },
   "27": {
@@ -861,6 +887,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Cobalt"
   },
   "28": {
@@ -893,6 +920,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Nickel"
   },
   "29": {
@@ -925,6 +953,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Copper"
   },
   "30": {
@@ -957,6 +986,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Zinc"
   },
   "31": {
@@ -989,6 +1019,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "basic metal",
     "name": "Gallium"
   },
   "32": {
@@ -1021,6 +1052,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "metalloid",
     "name": "Germanium"
   },
   "33": {
@@ -1053,6 +1085,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "metalloid",
     "name": "Arsenic"
   },
   "34": {
@@ -1085,6 +1118,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "non-metal",
     "name": "Selenium"
   },
   "35": {
@@ -1117,6 +1151,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "halogen",
     "name": "Bromine"
   },
   "36": {
@@ -1149,6 +1184,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "noble gas",
     "name": "Krypton"
   },
   "37": {
@@ -1181,6 +1217,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "alkali metal",
     "name": "Rubidium"
   },
   "38": {
@@ -1213,6 +1250,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "alkaline earth",
     "name": "Strontium"
   },
   "39": {
@@ -1245,6 +1283,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Yttrium"
   },
   "40": {
@@ -1277,6 +1316,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Zirconium"
   },
   "41": {
@@ -1309,6 +1349,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Niobium"
   },
   "42": {
@@ -1341,6 +1382,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Molybdenum"
   },
   "43": {
@@ -1373,6 +1415,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Technetium"
   },
   "44": {
@@ -1405,6 +1448,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Ruthenium"
   },
   "45": {
@@ -1437,6 +1481,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Rhodium"
   },
   "46": {
@@ -1469,6 +1514,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Palladium"
   },
   "47": {
@@ -1501,6 +1547,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Silver"
   },
   "48": {
@@ -1533,6 +1580,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Cadmium"
   },
   "49": {
@@ -1565,6 +1613,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "basic metal",
     "name": "Indium"
   },
   "50": {
@@ -1597,6 +1646,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "basic metal",
     "name": "Tin"
   },
   "51": {
@@ -1629,6 +1679,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "metalloid",
     "name": "Antimony"
   },
   "52": {
@@ -1661,6 +1712,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "metalloid",
     "name": "Tellurium"
   },
   "53": {
@@ -1693,6 +1745,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "halogen",
     "name": "Iodine"
   },
   "54": {
@@ -1725,6 +1778,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "noble gas",
     "name": "Xenon"
   },
   "55": {
@@ -1757,6 +1811,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "alkali metal",
     "name": "Cesium"
   },
   "56": {
@@ -1789,6 +1844,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "alkaline earth",
     "name": "Barium"
   },
   "57": {
@@ -1821,6 +1877,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "lanthanide",
     "name": "Lanthanum"
   },
   "58": {
@@ -1853,6 +1910,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "lanthanide",
     "name": "Cerium"
   },
   "59": {
@@ -1885,6 +1943,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "lanthanide",
     "name": "Praseodymium"
   },
   "60": {
@@ -1917,6 +1976,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "lanthanide",
     "name": "Neodymium"
   },
   "61": {
@@ -1949,6 +2009,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "lanthanide",
     "name": "Promethium"
   },
   "62": {
@@ -1981,6 +2042,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "lanthanide",
     "name": "Samarium"
   },
   "63": {
@@ -2013,6 +2075,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "lanthanide",
     "name": "Europium"
   },
   "64": {
@@ -2045,6 +2108,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "lanthanide",
     "name": "Gadolinium"
   },
   "65": {
@@ -2077,6 +2141,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "lanthanide",
     "name": "Terbium"
   },
   "66": {
@@ -2109,6 +2174,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "lanthanide",
     "name": "Dysprosium"
   },
   "67": {
@@ -2141,6 +2207,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "lanthanide",
     "name": "Holmium"
   },
   "68": {
@@ -2173,6 +2240,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "lanthanide",
     "name": "Erbium"
   },
   "69": {
@@ -2205,6 +2273,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "lanthanide",
     "name": "Thulium"
   },
   "70": {
@@ -2237,6 +2306,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "lanthanide",
     "name": "Ytterbium"
   },
   "71": {
@@ -2269,6 +2339,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "lanthanide",
     "name": "Lutetium"
   },
   "72": {
@@ -2301,6 +2372,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Hafnium"
   },
   "73": {
@@ -2333,6 +2405,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Tantalum"
   },
   "74": {
@@ -2365,6 +2438,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Tungsten"
   },
   "75": {
@@ -2397,6 +2471,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Rhenium"
   },
   "76": {
@@ -2429,6 +2504,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Osmium"
   },
   "77": {
@@ -2461,6 +2537,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Iridium"
   },
   "78": {
@@ -2493,6 +2570,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Platinum"
   },
   "79": {
@@ -2525,6 +2603,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Gold"
   },
   "80": {
@@ -2557,6 +2636,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Mercury"
   },
   "81": {
@@ -2589,6 +2669,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "basic metal",
     "name": "Thallium"
   },
   "82": {
@@ -2621,6 +2702,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "basic metal",
     "name": "Lead"
   },
   "83": {
@@ -2653,6 +2735,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "basic metal",
     "name": "Bismuth"
   },
   "84": {
@@ -2685,6 +2768,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "metalloid",
     "name": "Polonium"
   },
   "85": {
@@ -2717,6 +2801,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "halogen",
     "name": "Astatine"
   },
   "86": {
@@ -2749,6 +2834,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "noble gas",
     "name": "Radon"
   },
   "87": {
@@ -2781,6 +2867,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "alkali metal",
     "name": "Francium"
   },
   "88": {
@@ -2813,6 +2900,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "alkaline earth",
     "name": "Radium"
   },
   "89": {
@@ -2845,6 +2933,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "actinide",
     "name": "Actinium"
   },
   "90": {
@@ -2877,6 +2966,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "actinide",
     "name": "Thorium"
   },
   "91": {
@@ -2909,6 +2999,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "actinide",
     "name": "Protactinium"
   },
   "92": {
@@ -2941,6 +3032,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "actinide",
     "name": "Uranium"
   },
   "93": {
@@ -2973,6 +3065,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "actinide",
     "name": "Neptunium"
   },
   "94": {
@@ -3005,6 +3098,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "actinide",
     "name": "Plutonium"
   },
   "95": {
@@ -3037,6 +3131,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "actinide",
     "name": "Americium"
   },
   "96": {
@@ -3069,6 +3164,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "actinide",
     "name": "Curium"
   },
   "97": {
@@ -3101,6 +3197,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "actinide",
     "name": "Berkelium"
   },
   "98": {
@@ -3133,6 +3230,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "actinide",
     "name": "Californium"
   },
   "99": {
@@ -3165,6 +3263,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "actinide",
     "name": "Einsteinium"
   },
   "100": {
@@ -3197,6 +3296,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "actinide",
     "name": "Fermium"
   },
   "101": {
@@ -3229,6 +3329,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "actinide",
     "name": "Mendelevium"
   },
   "102": {
@@ -3261,6 +3362,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "actinide",
     "name": "Nobelium"
   },
   "103": {
@@ -3293,6 +3395,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "actinide",
     "name": "Lawrencium"
   },
   "104": {
@@ -3325,6 +3428,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Rutherfordium"
   },
   "105": {
@@ -3357,6 +3461,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Dubnium"
   },
   "106": {
@@ -3389,6 +3494,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Seaborgium"
   },
   "107": {
@@ -3421,6 +3527,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Bohrium"
   },
   "108": {
@@ -3453,6 +3560,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Hassium"
   },
   "109": {
@@ -3485,6 +3593,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Meitnerium"
   },
   "110": {
@@ -3517,6 +3626,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Darmstadtium"
   },
   "111": {
@@ -3549,6 +3659,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Roentgenium"
   },
   "112": {
@@ -3581,6 +3692,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "transition metal",
     "name": "Copernicium"
   },
   "113": {
@@ -3613,6 +3725,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "basic metal",
     "name": "Ununtrium"
   },
   "114": {
@@ -3645,6 +3758,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "basic metal",
     "name": "Flerovium"
   },
   "115": {
@@ -3677,6 +3791,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "basic metal",
     "name": "Ununpentium"
   },
   "116": {
@@ -3709,6 +3824,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "basic metal",
     "name": "Livermorium"
   },
   "117": {
@@ -3741,6 +3857,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "halogen",
     "name": "Ununseptium"
   },
   "118": {
@@ -3773,6 +3890,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "noble gas",
     "name": "Ununoctium"
   },
   "119": {
@@ -3805,6 +3923,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "",
     "name": "Ununennium"
   },
   "120": {
@@ -3837,6 +3956,7 @@ var elements = {
     "crystal_structure": "",
     "optical_refractive_index-gas": "",
     "optical_refractive_index-liquid": "",
+    "family": "",
     "name": "Unbinilium"
   }
-}
+};
